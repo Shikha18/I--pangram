@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    div:nth-child(1){
+        display: flex;
+        gap: 5%;
+        width: 100%;
+        flex-direction: row;
+        span:nth-child(1) {
+            font-size: 20px;
+        }
+        span:nth-child(2) {
+            flex-wrap: wrap;
+        }
+    } 
+}
+
+.input {
+    margin-top: 20px;
+    width: 80vw;
+    height: 10vh;
+}
