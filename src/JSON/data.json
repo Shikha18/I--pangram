@@ -1,34 +1,41 @@
 [{
+    "key": "Pain/aches/stiffness",
     "ques" : "If you have problems with pain/aches/stiffness, weakness or functional problems, desctribe this/these below.(List the symptoms in descending order with the most troublesome first)",
     "buttonType" : "input",
     "options" : []
 },
 {
+    "key": "Have you been diagnosed with this problem",
     "ques" : "Have you been diagnosed with this problem",
     "buttonType" : "radio",
     "options" : ["Not relevant", "Yes", "No"]
 },
 {
+    "key": "Did the problem start after a physical trauma",
     "ques" : "Did the problem start after a physical trauma",
     "buttonType" : "radio",
     "options" : ["Not relevant", "Yes", "No"]
 },
 {
+    "key" : "Did the problem start after a mental trauma",
     "ques" : "Did the problem start after a mental trauma",
     "buttonType" : "radio",
     "options" : ["Not relevant", "Yes", "No"]
 },
 {
+    "key": "How often do you experience the problem",
     "ques" : "How often do you experience the problem",
     "buttonType" : "radio",
     "options" : ["Not relevant", "Daily", "Several times/week", "A few times/month"]
 },
 {
+    "key": "When do you experience the problem",
     "ques" : "When do you experience the problem",
     "buttonType" : "checkbox",
     "options" : ["Not relevant", "When lying down", "When sitting", "Under standing", "In walking"]
 },
 {
+    "key": "Intensity between 0-10",
     "ques" : "How intense is the experience of the problem on avaerage on a 0-10 scale",
     "buttonType" : "radio",
     "options" : [1, 2, 3, 4, 5, 6, 7, 8 , 9, 10]
